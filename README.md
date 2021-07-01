@@ -11,7 +11,7 @@ Más especificamente, los problemas que vamos a abordar en este repositorio se d
 
 4-Approach para principiantes de POO, donde definiremos una clase y, heredando de esta última, crear una subclase.
 
-5-Generación de módulos y archivos de python para crear una librería.
+5-Ejemplo sencillo de generación de módulos, paquetes y librerías.
 
 6-Introducción al manejo de gráficos de scatter, contornos y densidad utilizando matplotlib
 
