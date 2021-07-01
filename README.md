@@ -19,6 +19,6 @@ Más especificamente, los problemas que vamos a abordar en este repositorio se d
 
 8- Un caso de utilización de un functor para vectorizar una función que inicialmente sólo funciona con números escalares.
 
-De este modo, según la numeración indicada, pueden hallar la implementación con la que logré encarar los tópicos anteriores y, finalmente, para ver mis resultados, gráficas y análisis de cada problema fijarse en el archivo PDF.
+De este modo, según la numeración indicada, pueden hallar la implementación con la que logré encarar los tópicos anteriores y, finalmente, para ver mis resultados y gráficas acompañadas con un breve análisis de cada problema, fijarse en el archivo PDF.
 
 Estos problemas fueron propuestos durante la clase Redes Neuronales y Aprendizaje Profundo para Visión Artificial del instituto Balseiro del año 2020
